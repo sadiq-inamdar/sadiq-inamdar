@@ -51,7 +51,7 @@ I thrive in high-scale environments, automating workflows, orchestrating Kuberne
 
 📫 **Email:** [sadeeq8951@gmail.com](mailto:sadeeq8951@gmail.com)  
 🔗 **LinkedIn:** [Sadiq Inamdar](https://www.linkedin.com/in/sadiq-inamdar-07bb4a1a6/)  
-💻 **GitHub:** [sadiq-inamdar](https://github.com/sadiq-inamdar/sadiq-inamdar)  
+💻 **GitHub:** [sadiq-inamdar](https://github.com/sadiq-inamdar)  
 📖 **Blog:** [Medium](https://medium.com/@sadeeq8951)  
 
 ---
